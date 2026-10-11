@@ -79,10 +79,7 @@ Dieses Skript steht unter der MIT-Lizenz – du darfst es verwenden, anpassen un
 
 Entwickelt für den Einsatz in Mumble-Sprachsystemen mit dem Raspberry Pi Zero.
 
-gib mir bitte noch eine readme.md für github für dieses script
-Hier ist eine vollständige README.md für dein GitHub-Repository:
 
-markdown
 # 🎙️ talkiepi Installer für Raspberry Pi Zero
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
